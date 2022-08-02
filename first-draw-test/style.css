@@ -1,0 +1,10 @@
+canvas{
+    border: 1px solid black;
+}
+#scenario{
+    margin-left: 50px;
+    text-align: center;
+}
+#drawing-canvas{
+    image-rendering: -webkit-optimize-contrast !important;
+}
